@@ -1,0 +1,23 @@
+---
+targets: none
+include:
+  Chapter_1.dm
+  Chapter_2.dm
+  Chapter_3.dm
+  Chapter_4.dm
+  Chapter_5.dm
+  Chapter_6.dm
+  Chapter_7.dm
+  Chapter_8.dm
+  Chapter_9.dm
+  Chapter_10.dm
+  Chapter_11.dm
+  Chapter_12.dm
+  Chapter_13.dm
+  Chapter_14.dm
+  Chapter_15.dm
+  Chapter_16.dm
+  Chapter_17.dm
+  Chapter_18.dm
+  Chapter_19.dm
+---
